@@ -2,23 +2,17 @@
   background-image: url('./img/tree.jpg');
   width: 80%;
   height: 800px;
-  border: 1px black solid;
   background-size: contain;
   background-repeat: no-repeat;
 }
 table{
-  width: 80%;
-  height: 240px;
-  border: 1px black solid;
-  margin-left: 60px;
-  margin-top: 40px;
+  height: 270px;
+  width: 50%;
+  margin-left: 20%;
+  margin-top: 15%;
 }
 
 td{
-  border: 1px black solid;
   background-size: contain;
   background-repeat: no-repeat;
-}
-#ad{
-  background-color: blue;
 }
