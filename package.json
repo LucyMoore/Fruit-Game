@@ -1,21 +1,21 @@
 {
-  "name": "enigma-machine",
+  "name": "fruit-game",
   "version": "1.0.0",
-  "description": "based on the german enigma machine for encrypting code",
+  "description": "fruit picking game",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LucyMoore/Enigma-Machine.git"
+    "url": "git+https://github.com/LucyMoore/Fruit-Game.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LucyMoore/Enigma-Machine/issues"
+    "url": "https://github.com/LucyMoore/Fruit-Game/issues"
   },
-  "homepage": "https://github.com/LucyMoore/Enigma-Machine#readme",
+  "homepage": "https://github.com/LucyMoore/Fruit-Game#readme",
   "dependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.8.0",
